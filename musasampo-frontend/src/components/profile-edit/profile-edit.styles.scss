@@ -1,0 +1,26 @@
+.container {
+    width: 95%;
+
+    .edit {
+        width: 380px;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    
+        .title92 {
+        font-size: 34px;
+        margin-top: 40px;
+        margin-bottom: 35px;
+        }
+    
+        .buttons17 {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 25px;
+        }
+
+        .form-input-label {
+            color: black;
+        }
+    }
+}
